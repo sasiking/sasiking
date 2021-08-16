@@ -18,12 +18,12 @@
 
 - 🔭 I’m currently working on Azure Technologies mainly ADF, ADLS and ADB.
 - 🌱 I’m currently learning ReactJS and MongoDB
-- 📫 How to reach me  <a href = "https://www.linkedin.com/in/sasiking"> ![LinkedIn](https://img.shields.io/badge/-LinkedIN%20-blue?style=flat&logo=linkedin)</a>
-
+- 📫 How to reach me  <a href = "https://www.linkedin.com/in/sasiking"> ![LinkedIn](https://img.shields.io/badge/-LinkedIn%20-blue?style=flat&logo=linkedin)</a>
+<!---
 <br/>
 <a href="https://github.com/sasiking">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sasiking&show_icons=true&include_all_commits=true&theme=monokai" alt="Sasi's github stats" />
 </a>
 </br>
 </br>
-
+--->
