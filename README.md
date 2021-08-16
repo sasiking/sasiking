@@ -14,12 +14,16 @@
 
 
 ### 👨‍💻 About Me
- Hello , I am Sasi Kiran, Currently working as a Systems Engineer in Infosys, working on Azure technologies especially Azure Data Factory and Azure Data Bricks. 
+ Hello , I am Sasi Kiran, Currently working as a Systems Engineer in Infosys, working on Azure technologies especially Azure Data Factory and Azure Data Bricks. Strong in Computer Science Fundamentals and excited about problem solving. Working experience in Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: Reach out to me here 
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Azure Technologies mainly ADF, ADLS and ADB.
+- 🌱 I’m currently learning ReactJS and MongoDB
+- 📫 How to reach me  <a href = "https://www.linkedin.com/in/sasiking"> ![LinkedIn](https://img.shields.io/badge/-LinkedIN%20-blue?style=flat&logo=linkedin)</a>
+
+<br/>
+<a href="https://github.com/sasiking">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sasiking&show_icons=true&include_all_commits=true&theme=monokai" alt="Sasi's github stats" />
+</a>
+</br>
+</br>
+
